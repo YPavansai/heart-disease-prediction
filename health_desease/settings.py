@@ -96,5 +96,3 @@ SESSION_COOKIE_SECURE = False
 CSRF_COOKIE_HTTPONLY = False
 CSRF_USE_SESSIONS = False
 
-ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['YPavanSai.pythonanywhere.com']
